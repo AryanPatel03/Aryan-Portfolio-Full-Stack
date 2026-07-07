@@ -67,7 +67,7 @@ The optimized files will be generated in the `dist` or `build` folder.
 ## 📬 Contact & Links
 
 - **GitHub**: [AryanPatel03](https://github.com/AryanPatel03)
-- **LinkedIn**: [Aryan Virani](https://www.linkedin.com/in/aryan-virani/)
+- **LinkedIn**: [Aryan Virani](https://linkedin.com/in/aryan-virani-522052224/)
 
 ---
 
