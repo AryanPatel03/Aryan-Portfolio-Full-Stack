@@ -1,0 +1,10 @@
+{
+  "name": "Aryan Virani — Portfolio",
+  "short_name": "Aryan",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ],
+  "theme_color": "#6366f1",
+  "background_color": "#06060b",
+  "display": "standalone"
+}
